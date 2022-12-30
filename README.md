@@ -2,7 +2,7 @@
 Basic Html and Css mini movies website
 
 ## Demo website link
-    https://waiyanphoneaant.github.io/Mini_MovieApp/
+ https://waiyanphoneaant.github.io/Mini_MovieApp/
     
 ### Preview website image
 
